@@ -26,11 +26,13 @@ e. It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
 
 
 install some library packages like :
+
 a. pip install pylint
 
 b. pip install termcolor
 
 Mini projects:-
+
 a. Dice simulator
 
 b. English_Dictionary
