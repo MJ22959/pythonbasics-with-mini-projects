@@ -1,5 +1,4 @@
 import json
-import sys
 from termcolor import colored
 from difflib import get_close_matches
 
