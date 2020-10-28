@@ -25,8 +25,8 @@ e. It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
 
 
 install some library packages like :
-pip install pylint,
-pip install termcolor
+a. pip install pylint
+b. pip install termcolor
 
 Mini projects:-
 a. Dice simulator
