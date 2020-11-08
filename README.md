@@ -31,6 +31,22 @@ a. pip install pylint
 
 b. pip install termcolor
 
+c. pip install numpy
+
+d. pip install pandas
+
+e. python -m pip install -U pip
+
+f. python -m pip install -U matplotlib
+
+g. pip install seaborn
+
+h. pip install cufflinks
+
+i. pip install plotly
+
+j. pip install geoplot
+
 Mini projects:-
 
 a. Dice simulator
