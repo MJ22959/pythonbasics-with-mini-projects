@@ -56,3 +56,5 @@ b. English_Dictionary
 c. Hangman
 
 d. TicTacToe
+
+e. Plotter
