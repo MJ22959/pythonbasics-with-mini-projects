@@ -47,7 +47,7 @@ i. pip install plotly
 
 j. pip install geoplot
 
-k. pip install basemap
+k. pip install basemap / conda install basemap
 
 l. pip install tensorflow
 
