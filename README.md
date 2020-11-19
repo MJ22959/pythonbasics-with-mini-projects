@@ -47,6 +47,12 @@ i. pip install plotly
 
 j. pip install geoplot
 
+k. pip install basemap / conda install basemap
+
+l. pip install tensorflow
+
+m. pip install folium
+
 Mini projects:-
 
 a. Dice simulator
@@ -56,3 +62,5 @@ b. English_Dictionary
 c. Hangman
 
 d. TicTacToe
+
+e. Plotter
