@@ -51,6 +51,8 @@ k. pip install basemap / conda install basemap
 
 l. pip install tensorflow
 
+m. pip install folium
+
 Mini projects:-
 
 a. Dice simulator
