@@ -47,6 +47,8 @@ i. pip install plotly
 
 j. pip install geoplot
 
+k. pip install basemap
+
 Mini projects:-
 
 a. Dice simulator
