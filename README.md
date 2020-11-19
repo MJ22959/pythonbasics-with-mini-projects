@@ -49,6 +49,8 @@ j. pip install geoplot
 
 k. pip install basemap
 
+l. pip install tensorflow
+
 Mini projects:-
 
 a. Dice simulator
