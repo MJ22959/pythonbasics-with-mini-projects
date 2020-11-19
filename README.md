@@ -64,3 +64,5 @@ c. Hangman
 d. TicTacToe
 
 e. Plotter
+
+f. Geographical plotter
